@@ -2,8 +2,14 @@
   "name": "automation-backend",
   "version": "0.0.1",
   "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/StreamViewer/backend.git"
+  },
+  "engines": {
+    "node": "4.0.0"
   }
 }
